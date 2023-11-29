@@ -8,7 +8,6 @@
 #                                                                             #
 #=============================================================================#
 
-
 # Définition des chemins de recherche et des extensions de fichier
 $scriptPaths = @("C:\Scripts", "C:\scripts")
 $extensions = @("*.ps1", "*.psm1", "*.vbs", "*.xml", "*.bat", "*.cmd")
